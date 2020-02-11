@@ -25,10 +25,10 @@ Resources for students: Spring 2020
 - [JEA quizzes](http://jea.org/wp/blog/2012/10/07/associated-press-style-quizzes/)
 - [Quizlet](https://quizlet.com/2046964/ap-style-quiz-flash-cards/)
 - [Platform magazine quizzes](http://platformmagazine.org/2015/01/05/ap-style-quiz/)
+- [Flashcard Machine](https://www.flashcardmachine.com/machine/?topic_id=266579&source=pub.pub_details)
 
 ### Other
 - [Key Points of AP Style](https://docs.google.com/document/d/1JYJSWerifoAR0wHDLK600lGcPUZ_o1_oldU_Djd2DYc)
-- [Flashcard Machine](https://www.flashcardmachine.com/machine/?topic_id=266579&source=pub.pub_details)
 - [Purdue OWL](https://owl.purdue.edu/owl/subject_specific_writing/journalism_and_journalistic_writing/ap_style.html) guide
 - Ali Mese, Medium, [Write to Express, Not to Impress: 18 quick fixes to sharpen your writing](https://medium.com/swlh/write-to-express-not-to-impress-465d628f39fe)
 
