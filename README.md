@@ -2,6 +2,7 @@
 Resources for students: Spring 2020
 
 [Syllabus](https://docs.google.com/document/d/1atUAONae12VmoDUzoekMd-Am0-mKef7InGGuESYOrSM/edit)
+
 [Journalism + Design research guide](http://guides.library.newschool.edu/newsnarrativedesign) from New School library
 
 ## Style
