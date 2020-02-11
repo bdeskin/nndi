@@ -1,13 +1,8 @@
 # News, Narrative & Design I
 Resources for students: Spring 2020
 
-## [Syllabus](https://docs.google.com/document/d/1atUAONae12VmoDUzoekMd-Am0-mKef7InGGuESYOrSM/edit)
-
-## Free Courses
-### IRL
-[Disinformation in 2020](https://www.journalism.cuny.edu/events/disinformation-2020-crash-course-journalism-students/) at the Newmark J-School on February 8 (sold out; there's a wait list)
-### Online
-[Investigative Reporting in the Digital Age](https://journalismcourses.org/INV0120.html) from the [Knight Center for Reporting in the Americas](https://journalismcourses.org/)
+[Syllabus](https://docs.google.com/document/d/1atUAONae12VmoDUzoekMd-Am0-mKef7InGGuESYOrSM/edit)
+[Journalism + Design research guide](http://guides.library.newschool.edu/newsnarrativedesign) from New School library
 
 ## Style
 
@@ -31,6 +26,12 @@ Resources for students: Spring 2020
 - [Key Points of AP Style](https://docs.google.com/document/d/1JYJSWerifoAR0wHDLK600lGcPUZ_o1_oldU_Djd2DYc)
 - [Purdue OWL](https://owl.purdue.edu/owl/subject_specific_writing/journalism_and_journalistic_writing/ap_style.html) guide
 - Ali Mese, Medium, [Write to Express, Not to Impress: 18 quick fixes to sharpen your writing](https://medium.com/swlh/write-to-express-not-to-impress-465d628f39fe)
+
+## Free Courses
+### IRL
+[Disinformation in 2020](https://www.journalism.cuny.edu/events/disinformation-2020-crash-course-journalism-students/) at the Newmark J-School on February 8 (sold out; there's a wait list)
+### Online
+[Investigative Reporting in the Digital Age](https://journalismcourses.org/INV0120.html) from the [Knight Center for Reporting in the Americas](https://journalismcourses.org/)
 
 ## Other things I mentioned in class
 
