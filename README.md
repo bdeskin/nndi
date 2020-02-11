@@ -12,7 +12,7 @@ Resources for students: Spring 2020
 ## Style
 
 ### Style Guides
-= [BuzzFeed Style Guide](https://www.buzzfeed.com/emmyf/buzzfeed-style-guide)
+- [BuzzFeed Style Guide](https://www.buzzfeed.com/emmyf/buzzfeed-style-guide)
 - [Conscious Style Guide](https://consciousstyleguide.com/)
 - [Guardian and Observer Style Guide](https://www.theguardian.com/guardian-observer-style-guide-a)
 - Wikipedia, [List of Style Guides](https://en.wikipedia.org/wiki/List_of_style_guides)
@@ -24,7 +24,7 @@ Resources for students: Spring 2020
 - [Tim Harrower's AP Exercises](https://www.radford.edu/~rstepno/104/apquizzes.html)
 - [JEA quizzes](http://jea.org/wp/blog/2012/10/07/associated-press-style-quizzes/)
 - [Quizlet](https://quizlet.com/2046964/ap-style-quiz-flash-cards/)
-- [Platcform magazine quizzes](http://platformmagazine.org/2015/01/05/ap-style-quiz/)
+- [Platform magazine quizzes](http://platformmagazine.org/2015/01/05/ap-style-quiz/)
 
 ### Other
 - [Key Points of AP Style](https://docs.google.com/document/d/1JYJSWerifoAR0wHDLK600lGcPUZ_o1_oldU_Djd2DYc)
