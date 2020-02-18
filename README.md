@@ -29,6 +29,9 @@ Resources for students: Spring 2020
 - [Purdue OWL](https://owl.purdue.edu/owl/subject_specific_writing/journalism_and_journalistic_writing/ap_style.html) guide
 - Ali Mese, Medium, [Write to Express, Not to Impress: 18 quick fixes to sharpen your writing](https://medium.com/swlh/write-to-express-not-to-impress-465d628f39fe)
 
+## Pitching
+- [How to Get Into Black Enterprise: Pitch the Right Editor](https://www.blackenterprise.com/how-to-get-into-black-enterprise-pitch-the-right-editor/)
+
 ## Free Courses
 ### IRL
 [Disinformation in 2020](https://www.journalism.cuny.edu/events/disinformation-2020-crash-course-journalism-students/) at the Newmark J-School on February 8 (sold out; there's a wait list)
