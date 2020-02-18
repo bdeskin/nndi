@@ -12,6 +12,7 @@ Resources for students: Spring 2020
 - [Conscious Style Guide](https://consciousstyleguide.com/)
 - [Guardian and Observer Style Guide](https://www.theguardian.com/guardian-observer-style-guide-a)
 - Wikipedia, [List of Style Guides](https://en.wikipedia.org/wiki/List_of_style_guides)
+- Reporting on Suicide, [Recommendations](https://duckduckgo.com/about)
 - Edith Zimmerman, The Cut, [13 Reasons We Type in Lowercase](https://www.thecut.com/2019/02/reasons-to-type-in-lowercase.html)
 - NPR Training, [Pronounce like a polyglot: saying foreign names on air](https://training.npr.org/2019/04/30/pronounce-like-a-polyglot-saying-foreign-names-on-air/)
 - Leandra Medine, Man Repeller, [Every Designer Name You Can't Pronounce](https://www.youtube.com/watch?v=HW_PAgYpy7k)
@@ -41,4 +42,4 @@ Resources for students: Spring 2020
 The Beat, a newsletter for Journalism + Design students
 - [submit your news to the Beat](https://forms.gle/PRQyZD77oTkbz8Rr7)
 
-[News not Noise](https://newsnotnoise.com/) from Jessica Yellin
+[About DuckDuckGo](https://duckduckgo.com/about), a search engine that is more respectful of privacy than Google
