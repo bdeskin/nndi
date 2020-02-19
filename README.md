@@ -5,6 +5,8 @@ Resources for students: Spring 2020
 
 [Journalism + Design research guide](http://guides.library.newschool.edu/newsnarrativedesign) from New School library
 
+[Journalism + Design process](https://resources.journalismdesign.com/s/jdprocess.pdf) poster (PDF)
+
 ## Style
 
 ### Style Guides
@@ -25,8 +27,11 @@ Resources for students: Spring 2020
 - [Flashcard Machine](https://www.flashcardmachine.com/machine/?topic_id=266579&source=pub.pub_details)
 
 ### Other
-- [Key Points of AP Style](https://docs.google.com/document/d/1JYJSWerifoAR0wHDLK600lGcPUZ_o1_oldU_Djd2DYc)
+- [Key Points of AP Style](https://docs.google.com/document/d/1JYJSWerifoAR0wHDLK600lGcPUZ_o1_oldU_Djd2DYc) sheet
 - [Purdue OWL](https://owl.purdue.edu/owl/subject_specific_writing/journalism_and_journalistic_writing/ap_style.html) guide
+- [Grammar Girl](https://www.quickanddirtytips.com/grammar-girl) podcast
+- [Writing Explained](https://writingexplained.org/) has some free resources, some paid
+- Washington Journalism Education Association, [AP Style Cheat Sheet](https://wjea.org/wp-content/uploads/2014/02/WJEA-AP-Style-Cheat-Sheet.pdf) (PDF)
 - Ali Mese, Medium, [Write to Express, Not to Impress: 18 quick fixes to sharpen your writing](https://medium.com/swlh/write-to-express-not-to-impress-465d628f39fe)
 
 ## Pitching
