@@ -51,3 +51,5 @@ The Beat, a newsletter for Journalism + Design students
 - [submit your news to the Beat](https://forms.gle/PRQyZD77oTkbz8Rr7)
 
 [About DuckDuckGo](https://duckduckgo.com/about), a search engine that is more respectful of privacy than Google
+
+[A Digital Briefing Book on Privacy and Podcasting](https://medium.com/prxofficial/a-digital-briefing-book-on-privacy-and-podcasting-33cfb9c69662)
