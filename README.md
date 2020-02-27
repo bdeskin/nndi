@@ -18,6 +18,7 @@ Resources for students: Spring 2020
 - Edith Zimmerman, The Cut, [13 Reasons We Type in Lowercase](https://www.thecut.com/2019/02/reasons-to-type-in-lowercase.html)
 - NPR Training, [Pronounce like a polyglot: saying foreign names on air](https://training.npr.org/2019/04/30/pronounce-like-a-polyglot-saying-foreign-names-on-air/)
 - Leandra Medine, Man Repeller, [Every Designer Name You Can't Pronounce](https://www.youtube.com/watch?v=HW_PAgYpy7k)
+- Soleil Ho, San Francisco Chronicle, [Words you’ll never see me use in restaurant reviews](https://www.sfchronicle.com/restaurants/article/Words-you-ll-never-see-me-use-in-restaurant-13652564.php)
 
 ### AP Style Practice
 - [Tim Harrower's AP Exercises](https://www.radford.edu/~rstepno/104/apquizzes.html)
