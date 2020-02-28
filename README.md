@@ -54,3 +54,5 @@ The Beat, a newsletter for Journalism + Design students
 [About DuckDuckGo](https://duckduckgo.com/about), a search engine that is more respectful of privacy than Google
 
 [A Digital Briefing Book on Privacy and Podcasting](https://medium.com/prxofficial/a-digital-briefing-book-on-privacy-and-podcasting-33cfb9c69662)
+
+NYU Gallatin, [Journalism Under Pressure](https://gallatin.nyu.edu/utilities/events/2020/03/JournalismUnderPressure.html) symposium, March 10, 2-8:15 p.m.
