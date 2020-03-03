@@ -28,6 +28,7 @@ Resources for students: Spring 2020
 - [Flashcard Machine](https://www.flashcardmachine.com/machine/?topic_id=266579&source=pub.pub_details)
 
 ### Other
+- [16 Kinds of Mistakes That Make Editors Cringe](https://docs.google.com/document/d/1UIlP00XMyoxEir2S0noWP-hR-2ZeTUF1ONCyjoZJc7w/edit)
 - [Key Points of AP Style](https://docs.google.com/document/d/1JYJSWerifoAR0wHDLK600lGcPUZ_o1_oldU_Djd2DYc) sheet
 - [Purdue OWL](https://owl.purdue.edu/owl/subject_specific_writing/journalism_and_journalistic_writing/ap_style.html) guide
 - [Grammar Girl](https://www.quickanddirtytips.com/grammar-girl) podcast
