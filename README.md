@@ -57,3 +57,9 @@ The Beat, a newsletter for Journalism + Design students
 [A Digital Briefing Book on Privacy and Podcasting](https://medium.com/prxofficial/a-digital-briefing-book-on-privacy-and-podcasting-33cfb9c69662)
 
 NYU Gallatin, [Journalism Under Pressure](https://gallatin.nyu.edu/utilities/events/2020/03/JournalismUnderPressure.html) symposium, March 10, 2-8:15 p.m.
+
+### Coronavirus Reporting
+
+- On the Media, [Epidemic Voyeurs No More](https://www.wnycstudios.org/podcasts/otm/segments/epidemic-voyeurs-no-more), interview with Laurie Garrett
+- Jiayang Fan, This American Life, [Mr. Chen Goes to Wuhan](https://www.thisamericanlife.org/695/everyones-a-critic/act-two-8)
+- Zeynep Tufekci, The Atlantic, [How the Coronavirus Revealed Authoritarianism’s Fatal Flaw](https://www.theatlantic.com/technology/archive/2020/02/coronavirus-and-blindness-authoritarianism/606922/)
