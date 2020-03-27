@@ -17,6 +17,7 @@ Resources for students: Spring 2020
 - Reporting on Suicide, [Recommendations](https://duckduckgo.com/about)
 - Edith Zimmerman, The Cut, [13 Reasons We Type in Lowercase](https://www.thecut.com/2019/02/reasons-to-type-in-lowercase.html)
 - NPR Training, [Pronounce like a polyglot: saying foreign names on air](https://training.npr.org/2019/04/30/pronounce-like-a-polyglot-saying-foreign-names-on-air/)
+- Gene Demby and Shereen Marisol Meraji, Code Switch, [Hold Up! Time For An Explanatory Comma](https://www.npr.org/2016/12/14/504482252/-hold-up-time-for-an-explanatory-comma)
 - Leandra Medine, Man Repeller, [Every Designer Name You Can't Pronounce](https://www.youtube.com/watch?v=HW_PAgYpy7k)
 - Soleil Ho, San Francisco Chronicle, [Words you’ll never see me use in restaurant reviews](https://www.sfchronicle.com/restaurants/article/Words-you-ll-never-see-me-use-in-restaurant-13652564.php)
 
