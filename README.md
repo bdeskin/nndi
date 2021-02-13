@@ -14,7 +14,7 @@ Resources for students: Spring 2020
 - [Conscious Style Guide](https://consciousstyleguide.com/)
 - [Guardian and Observer Style Guide](https://www.theguardian.com/guardian-observer-style-guide-a)
 - Wikipedia, [List of Style Guides](https://en.wikipedia.org/wiki/List_of_style_guides)
-- Reporting on Suicide, [Recommendations](https://duckduckgo.com/about)
+- Reporting on Suicide, [Recommendations](https://reportingonsuicide.org/recommendations/)
 - Edith Zimmerman, The Cut, [13 Reasons We Type in Lowercase](https://www.thecut.com/2019/02/reasons-to-type-in-lowercase.html)
 - NPR Training, [Pronounce like a polyglot: saying foreign names on air](https://training.npr.org/2019/04/30/pronounce-like-a-polyglot-saying-foreign-names-on-air/)
 - Gene Demby and Shereen Marisol Meraji, Code Switch, [Hold Up! Time For An Explanatory Comma](https://www.npr.org/2016/12/14/504482252/-hold-up-time-for-an-explanatory-comma)
